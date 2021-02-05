@@ -31,7 +31,7 @@ Next, you must write the function in terms of x and the limits of the interval.
 ```
 exp(-x**2)
 ```
-Its means
+It means
  <img src="https://latex.codecogs.com/png.latex?\dpi{80}&space;\bg_white&space;\LARGE&space;e^{-x^2}" title="\LARGE e^{-x^2}" />
  
  ## Output 📦
