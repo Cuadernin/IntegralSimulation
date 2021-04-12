@@ -9,7 +9,7 @@ If X is uniformly distributed in [0, 1], then
 <img src="https://latex.codecogs.com/png.latex?\dpi{80}&space;\bg_white&space;\LARGE&space;E(g(X))=\int_{0}^{1}g(x)dx" title="\LARGE E(g(X))=\int_{0}^{1}g(x)dx" />
 
 This fact suggests that we can use simulation to estimate the previous integral, estimating the value of E(g(X)). If X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>, ..., X<sub>n</sub> are independent and uniformly distributed in [0, 1], then the g(X<sub>i</sub>) are also independent. 
-Therefore, if we define the mean of $g(X)$ as:
+Therefore, if we define the mean of $$g(X)$$ as:
 
 <img src="https://latex.codecogs.com/png.latex?\dpi{80}&space;\bg_white&space;\LARGE&space;\overline{g(x)}=\frac{g(X_1)&plus;g(X_2)&plus;...&plus;g(X_n)}{n}" title="\LARGE \overline{g(x)}=\frac{g(X_1)+g(X_2)+...+g(X_n)}{n}" />
 
