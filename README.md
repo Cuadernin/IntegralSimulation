@@ -42,5 +42,4 @@ It means
  ### Note
  You can do the exact same thing for a multiple integral.
  
- 
- ##### By cuadernin
+
