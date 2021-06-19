@@ -31,7 +31,7 @@ if opc==1:
         pprint(pretty(Integral(funci,(z,0,1)),use_unicode=False))     
         print("===============================================================================") 
         f=lambdify(z,funci)
-        ###########      
+        ###########  Simulation part
         for i in range(N):         
             s=random()          
             suma=suma+f(s) 
